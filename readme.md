@@ -1,14 +1,14 @@
 # Arab Tools
 
 - Auto Reaction [ Available ]
-- Auto Leveling [ Available ] 
+- Auto Leveling [ Available ]
 - Voice Stay [ Available ]
 - Broadcast [ UnAvailable ]
 - Multi Cast [ UnAvailable ]
 - Quran [ UnAvailable ]
 
-
 # .env
+
 ```
     SelfToken= // Discord User Token
     BotToken= // Discord Bot Token
@@ -16,5 +16,6 @@
     BotPrefix= // Bot Prefix
 ```
 
-
 - [npm](https://www.npmjs.com/package/arab-tools)
+- Discord: black.dev1
+- Graphicode Team *discord.gg/graphicode*
