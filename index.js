@@ -21,7 +21,6 @@ setInterval(() => {
 
 
 
-
 module.exports = {
     bot: ArabToolsBot,
     SelfClient: ArabToolsSelfbot
